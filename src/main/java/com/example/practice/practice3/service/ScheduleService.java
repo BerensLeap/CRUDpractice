@@ -1,6 +1,5 @@
 package com.example.practice.practice3.service;
 
-import com.example.practice.practice1.repository.MemoRepository;
 import com.example.practice.practice3.dto.ScheduleRequestDto;
 import com.example.practice.practice3.dto.ScheduleResponseDto;
 import com.example.practice.practice3.entity.Schedule;
